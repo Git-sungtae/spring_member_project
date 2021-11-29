@@ -1011,13 +1011,13 @@ div.HStyle17
 <P class=HStyle0>- 프로젝트 실행모습</P>
 <img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/run.PNG"><br>
 <P class=HStyle0>- ERD</P>
-<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/table.PNG"><br>
-<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/table2.PNG"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/table.png"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/table2.png"><br>
 <P class=HStyle0>- Java Bean Graph 다이어그램</P>
-<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/root-context.PNG"><br>
-<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/servlet-context"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/root-context.png"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/servlet-context.png"><br>
 <P class=HStyle0>- URL mapping 다이어그램</P>
-<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/url_mappings.PNG"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/url_mappings.png"><br>
 </BODY>
 
 </HTML>
