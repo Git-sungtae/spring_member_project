@@ -1008,6 +1008,8 @@ div.HStyle17
 <P CLASS=HStyle0></P>
 <P class=HStyle0>- 프로젝트 Roadmap</P>
 <img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/roadmap.PNG"><br>
+<P class=HStyle0>- 프로젝트 실행모습</P>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/run.PNG"><br>
 </BODY>
 
 </HTML>
