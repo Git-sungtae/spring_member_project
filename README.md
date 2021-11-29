@@ -1010,6 +1010,14 @@ div.HStyle17
 <img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/roadmap.PNG"><br>
 <P class=HStyle0>- 프로젝트 실행모습</P>
 <img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/run.PNG"><br>
+<P class=HStyle0>- ERD</P>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/table.PNG"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/table2.PNG"><br>
+<P class=HStyle0>- Java Bean Graph 다이어그램</P>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/root-context.PNG"><br>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/servlet-context"><br>
+<P class=HStyle0>- URL mapping 다이어그램</P>
+<img src="https://github.com/Git-sungtae/spring_member_project/blob/main/show/url_mappings.PNG"><br>
 </BODY>
 
 </HTML>
